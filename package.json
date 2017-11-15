@@ -20,6 +20,6 @@
   },
   "dependencies": {
     "chokidar": "^1.7.0",
-    "popper.js": "^1.12.6"
+    "popper.js": "^1.12.8"
   }
 }
