@@ -80,13 +80,12 @@
     <div class="content">
         <div class="title m-b-md">
             Site_Blog_Laravel_Blog_Site
-            <div class="links">
+
                 <a href="{{route('admin.index')}}">Админка</a>
-            </div>
+
         </div>
 
         <div class="links">
-            <a href="{{route('admin.index')}}">Админка</a>
             <a href="https://laravel.com/docs">Documentation</a>
             <a href="https://laracasts.com">Laracasts</a>
             <a href="https://laravel-news.com">News</a>
